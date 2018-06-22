@@ -8,7 +8,7 @@ round1 =  4
 round2 =  5
 round3 =  6
 
-# all 
+# all1 
 # Calculate the average
 average = (round1 + round2 + round3) / 3
 
