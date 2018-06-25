@@ -9,7 +9,7 @@ round2 =  5
 round3 =  6
 
 
-# all1 
+# Comment to test 
 # Calculate the average
 average = (round1 + round2 + round3) / 3
 
